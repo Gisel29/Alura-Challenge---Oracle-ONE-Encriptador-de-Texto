@@ -1,4 +1,4 @@
-# Challenge-ONE-Juego-del-Ahorcado
+# Alura Challenge - Oracle ONE Encriptador de Texto
 
 Vamos a trabajar sobre una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
